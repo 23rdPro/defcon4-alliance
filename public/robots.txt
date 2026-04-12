@@ -1,0 +1,14 @@
+User-agent: *
+Allow: /
+
+# Block access to API routes
+Disallow: /api/
+
+# Block access to admin or sensitive areas (if any)
+# Disallow: /admin/
+
+# Allow crawling of all articles
+Allow: /articles/
+
+# Sitemap
+Sitemap: https://defcon4alliance.com/sitemap.xml

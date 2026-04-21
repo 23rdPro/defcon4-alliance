@@ -6,7 +6,7 @@ import Image from "next/image";
 
 const slides = [
   {
-    image: "/assets/hero.jpg",
+    image: "/assets/hero.png",
     subtitle: "Welcome to Defcon4 Alliance",
     title: "Your Security,",
     titleAccent: "Our Priority.",

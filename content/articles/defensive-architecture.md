@@ -3,7 +3,7 @@ title: "Defensive Architecture in Modern Security Systems"
 description: "How to design resilient security systems that withstand modern threats"
 author: "Defcon4 Team"
 publishedAt: "2026-04-10"
-coverImage: "/assets/hero.jpg"
+coverImage: "/assets/hero.png"
 tags: ["security", "architecture", "defense"]
 ---
 

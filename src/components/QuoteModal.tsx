@@ -38,7 +38,7 @@ export default function QuoteModal({ isOpen, onClose }: QuoteModalProps) {
   const handleDownload = () => {
     // Create a link to download the PDF
     const link = document.createElement('a');
-    link.href = '/defcon4-brief.pdf';
+    link.href = '/defcon4alliance_brief.pdf';
     link.download = 'Defcon4-Security-Briefing.pdf';
     document.body.appendChild(link);
     link.click();

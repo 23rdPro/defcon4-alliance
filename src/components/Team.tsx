@@ -4,7 +4,7 @@ import { useRef } from "react";
 
 const team = [
   {
-    name: "Faiza Ufedo Okai",
+    name: "Mustapha Yusuf",
     role: "C.E.O",
     desc: "Leads the organization with a vision for comprehensive security solutions across Nigeria.",
   },
